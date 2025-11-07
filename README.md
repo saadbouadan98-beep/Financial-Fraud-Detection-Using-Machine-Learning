@@ -1,4 +1,5 @@
 # 🛡️ Financial Fraud Detection Using Machine Learning
+
 This project uses real-world inspired synthetic financial datasets to detect
 fraudulent transactions using machine learning and statistical analysis from Kaggle.
 
