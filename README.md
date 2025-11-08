@@ -18,4 +18,4 @@ fraudulent transactions using machine learning and statistical analysis from Kag
 
 ## 👥 Collaborators
 - Saad Bouadan – Financial Data Intelligence Student
-- Tanvir Rubayet Khandaker – Data and business analytics student
+-  Tanvir Rubayet Khandaker (https://github.com/tanvirrubayet) – Data and business analytics student
